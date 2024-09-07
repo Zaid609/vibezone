@@ -9,9 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/nextjs": "^5.4.1",
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^6.0.2",
+    "mongodb": "^6.8.1",
+    "mongoose": "^8.6.1",
+    "next": "14.2.8",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.8"
+    "react-hook-form": "^7.53.0",
+    "svix": "^1.32.0"
   },
   "devDependencies": {
     "postcss": "^8",
